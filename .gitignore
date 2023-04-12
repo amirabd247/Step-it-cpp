@@ -5,7 +5,7 @@
 
 
 .idea
-cmake-built-debug
+cmake-build=-debug
 
 # User-specific files
 *.rsuser
